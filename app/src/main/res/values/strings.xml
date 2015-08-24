@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">豆瓣美女</string>
+
+    <string name="action_settings">设置</string>
+    <string name="action_statement">特别声明</string>
+    <string name="action_about">关于作者</string>
+    <string name="edit">编辑</string>
+    <string name="out">退出</string>
+    <string name="title_activity_cat">小游戏</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_joke">爆笑段子</string>
+    <string name="title_activity_joke_detail">JokeDetailActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_cos">CosActivity</string>
+
+    <string name="border_top">Border Top</string>
+    <string name="border_bottom">Border Bottom</string>
+    <string name="image_url">Image Url</string>
+</resources>

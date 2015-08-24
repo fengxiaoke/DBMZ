@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.anniemal.dbmz.JokeActivity">
+      <item
+          android:id="@+id/main_menu_share"
+          android:icon="@mipmap/abc_ic_menu_share_holo_dark"
+          app:showAsAction="always"
+          android:title="分享"/>
+      <item
+          android:id="@+id/main_menu_report"
+          android:icon="@mipmap/actionbar_report"
+          app:showAsAction="always"
+          android:title="调查"/>
+</menu>
